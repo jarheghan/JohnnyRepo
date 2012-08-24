@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AaronShoppingCart.Web", "AaronShoppingCart\AaronShoppingCart.Web.csproj", "{EB850736-DAA9-4087-92C2-A6E5D7981968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AaronShoppingCart.Test", "AaronShoppingCart.Test\AaronShoppingCart.Test.csproj", "{91CD2727-6093-41FF-BB94-9F22203FD8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AaronShoppingCart.Task", "AaronShoppingCart.Task\AaronShoppingCart.Task.csproj", "{4F7A28BD-8362-4489-B7D4-E07C9E07BD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB850736-DAA9-4087-92C2-A6E5D7981968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB850736-DAA9-4087-92C2-A6E5D7981968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB850736-DAA9-4087-92C2-A6E5D7981968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB850736-DAA9-4087-92C2-A6E5D7981968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CD2727-6093-41FF-BB94-9F22203FD8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CD2727-6093-41FF-BB94-9F22203FD8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CD2727-6093-41FF-BB94-9F22203FD8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CD2727-6093-41FF-BB94-9F22203FD8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7A28BD-8362-4489-B7D4-E07C9E07BD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7A28BD-8362-4489-B7D4-E07C9E07BD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7A28BD-8362-4489-B7D4-E07C9E07BD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7A28BD-8362-4489-B7D4-E07C9E07BD94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
